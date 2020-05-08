@@ -1,3 +1,6 @@
 [submodule "Prototype-1"]
 	path = Prototype-1
 	url = https://github.com/altuntasfth/Prototype-1.git
+[submodule "Challenge1-PlaneProgramming"]
+	path = Challenge1-PlaneProgramming
+	url = https://github.com/altuntasfth/Challenge1-PlaneProgramming.git
