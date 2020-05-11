@@ -10,3 +10,6 @@
 [submodule "Challenge2-PlayFetch"]
 	path = Challenge2-PlayFetch
 	url = https://github.com/altuntasfth/Challenge2-PlayFetch.git
+[submodule "Prototype-3"]
+	path = Prototype-3
+	url = https://github.com/altuntasfth/Prototype-3.git
