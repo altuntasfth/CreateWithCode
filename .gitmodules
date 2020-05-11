@@ -13,3 +13,6 @@
 [submodule "Prototype-3"]
 	path = Prototype-3
 	url = https://github.com/altuntasfth/Prototype-3.git
+[submodule "Challenge3-Balloons-Bombs-Booleans"]
+	path = Challenge3-Balloons-Bombs-Booleans
+	url = https://github.com/altuntasfth/Challenge3-Balloons-Bombs-Booleans.git
