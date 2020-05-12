@@ -16,3 +16,6 @@
 [submodule "Challenge3-Balloons-Bombs-Booleans"]
 	path = Challenge3-Balloons-Bombs-Booleans
 	url = https://github.com/altuntasfth/Challenge3-Balloons-Bombs-Booleans.git
+[submodule "Prototype-4"]
+	path = Prototype-4
+	url = https://github.com/altuntasfth/Prototype-4.git
