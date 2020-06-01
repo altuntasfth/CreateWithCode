@@ -19,3 +19,6 @@
 [submodule "Prototype-4"]
 	path = Prototype-4
 	url = https://github.com/altuntasfth/Prototype-4.git
+[submodule "Challenge4-Soccer-Scripting"]
+	path = Challenge4-Soccer-Scripting
+	url = https://github.com/altuntasfth/Challenge4-Soccer-Scripting.git
